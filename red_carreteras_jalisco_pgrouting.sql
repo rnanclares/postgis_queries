@@ -1,4 +1,4 @@
-/*pgRouting ver. 2.4.1*/
+/* pgRouting ver. 2.4.1 */
 
 ALTER TABLE jalroute.caminos_carreteras_2012
 ADD COLUMN "source" integer;
